@@ -1,2 +1,4 @@
 # raps
-NYU Shanghai - IMA - Realtime Audiovisual Performance Systems
+Realtime Audiovisual Performance Systems
+Interactive Media Arts
+NYU Shanghai
