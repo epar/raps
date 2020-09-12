@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1321.0, 752.0, 1356.0, 1017.0 ],
+		"rect" : [ 1321.0, 752.0, 573.0, 697.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -47,7 +47,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 119.0, 238.5, 273.0, 37.0 ],
-					"presentation_linecount" : 3,
 					"text" : "integer number box displays the current value coming out of the counter"
 				}
 
@@ -100,7 +99,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 171.0, 288.0, 360.0, 37.0 ],
+					"patching_rect" : [ 171.0, 288.0, 363.0, 37.0 ],
 					"text" : "select listens for different inputs, in this case 1 2 and 3 (but can be anything), and sends out bangs out of the matching outlets"
 				}
 
@@ -113,7 +112,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 140.0, 198.0, 203.0, 37.0 ],
+					"patching_rect" : [ 140.0, 198.0, 204.0, 37.0 ],
 					"text" : "counter counts bangs it receives, in this case it counts from 1 to 3"
 				}
 
